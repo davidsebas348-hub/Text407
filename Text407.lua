@@ -10,7 +10,7 @@ local places = {
     afuera = Vector3.new(312, 36, -534),
     dentro = Vector3.new(382, 37, -254),
     electricidad = Vector3.new(546, 37, 34),
-    dentro de la sala de el gerente = Vector3.new(254, 40, -316),
+    ["dentro de la sala de el gerente"] = Vector3.new(254, 40, -316),
     arriba = Vector3.new(373, 99, -300)
 }
 
